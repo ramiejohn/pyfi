@@ -5,7 +5,7 @@ import pandas as pd
 def grab_yahoo(tick):
     """ I will not use URLlib
         I will not use URLlib
-        I will not use URLlib
+        I will not use URLlib 
     """
     base_url = "http://ichart.finance.yahoo.com/table.csv?s="
     r = requests.get(base_url+tick)
@@ -26,6 +26,6 @@ def grab_yahoo(tick):
 
 def grab_market(market):
     """ Wrapper script to grab market data... This is going to be a fun one.
-    """
+    """ 
 
 
