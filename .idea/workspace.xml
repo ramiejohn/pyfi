@@ -34,7 +34,16 @@
       <file leaf-file-name="techs.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indicators/techs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="49" selection-start="419" selection-end="419" vertical-scroll-proportion="0.26101142">
+            <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.026101142">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,8 +79,9 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/grabber.py" />
-        <option value="$PROJECT_DIR$/indicators/techs.py" />
         <option value="$PROJECT_DIR$/tests/indicator_test.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/indicators/techs.py" />
       </list>
     </option>
   </component>
@@ -269,19 +279,26 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grabber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -294,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indicators/techs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="49" selection-start="419" selection-end="419" vertical-scroll-proportion="0.26101142">
+        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.026101142">
           <folding />
         </state>
       </provider>
