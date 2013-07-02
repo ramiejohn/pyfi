@@ -1,9 +1,15 @@
 
 def acc_dist_line():
     """Accumulation Distribution Line - Combines price and volume to show how money may be flowing into or out of a stock."""
+    """clv = { (close-low) - (high-close)} / { (high-low) }
+    ad = ad[-1] + clv*vol"""
+
 
 def aroon():
     """Aroon - Shows whether a stock is trending or oscillating."""
+    """aup = 100*(n-periods_since_highest_high)/n
+     adown = 100(n-periods_since_lowest_low)/n"""
+
     return
 
 def adx():
