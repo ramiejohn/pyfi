@@ -2,8 +2,10 @@ import requests
 import pandas as pd
 
 
-def get_tick(tick):
-    """ Come on bro... lets use some requests
+def grab_yahoo(tick):
+    """ I will not use URLlib
+        I will not use URLlib
+        I will not use URLlib
     """
     base_url = "http://ichart.finance.yahoo.com/table.csv?s="
     r = requests.get(base_url+tick)
@@ -22,5 +24,8 @@ def get_tick(tick):
     data['Date'] = filter(len,data['Date'])
     return pd.DataFrame(data)
 
+def grab_market(market):
+    """ Wrapper script to grab market data... This is going to be a fun one.
+    """
 
 
